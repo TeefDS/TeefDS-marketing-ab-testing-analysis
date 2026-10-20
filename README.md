@@ -15,6 +15,8 @@ Did users assigned to the advertising group convert at a higher rate than users 
 
 ## Dataset and preparation
 
+**Dataset source:** [Marketing A/B Testing by faviovaz on Kaggle](https://www.kaggle.com/datasets/faviovaz/marketing-ab-testing). The source dataset was downloaded from Kaggle and cleaned for this project. Please refer to the dataset page for attribution and usage terms.
+
 The analyzed dataset contains user-level assignment (`ad` or `psa`), purchase conversion (0/1), total exposure count, and the day/hour of greatest exposure.
 
 - Original data: **364,522 rows**
